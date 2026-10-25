@@ -1,7 +1,7 @@
 # Author: Lewis Johnson
 # Program: Prog Assign_7 - Strings
 # Date: Oct. 24, 2026
-# Git hub link https://github.com/lewisjohnson229/Prog-Assign_6---Modules-Libraries/blob/main/Prog%20Assing_6-Modules%20%26%20Libraries.py
+# Git hub link https://github.com/lewisjohnson229/Prog-Assign_7---Strings/blob/main/Prog%20Assing_7%20-%20strings.py
 
 # Get a phone number from the user in the format XXX-XXX-XXXX.
 # The user can type uppercase letters, lowercase letters, or both.
